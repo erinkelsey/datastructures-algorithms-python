@@ -11,6 +11,8 @@ This repository holds implementations of common data structures and algorithms i
     $ pipenv shell
     $ jupyter notebook
 
-## Algorithm Analysis
+## Big-O Notation
 
-- In depth explanation of
+- Big-O Notation Explained
+- Big-O Notation Examples
+- Big-O Notation for Python Lists and Dictionaries
