@@ -1,6 +1,6 @@
 # Data Structures and Algorithms in Python
 
-This repository holds implementations of common data structures and algorithms in Python, as well as explanation of algorithm analysis with Big-O Notation.
+This repository holds implementations of common data structures and algorithms in Python, as well as an explanation of algorithm analysis with Big-O Notation.
 
 ## Install
 
@@ -10,6 +10,8 @@ This repository holds implementations of common data structures and algorithms i
 
     $ pipenv shell
     $ jupyter notebook
+
+## Sections
 
 ### Big-O Notation
 
