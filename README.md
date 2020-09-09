@@ -10,11 +10,3 @@ This repository holds implementations of common data structures and algorithms i
 
     $ pipenv shell
     $ jupyter notebook
-
-## Sections
-
-### Big-O Notation
-
-- Big-O Notation Explained
-- Big-O Notation Examples
-- Big-O Notation for Python Lists and Dictionaries
